@@ -5,9 +5,10 @@
 
 # Tutorial Link :
    1. https://github.com/raqueeb/mlbook-titanic
-   2. https://github.com/raqueeb/mltraining/tree/master/ML-workbook
-   3. https://github.com/raqueeb/mlbook-titanic/tree/master/prediction
-   4. https://github.com/wehrley/wehrley.github.io/blob/master/SOUPTONUTS.md
+   2. https://github.com/raqueeb/mltraining
+   3. https://github.com/raqueeb/mltraining/tree/master/ML-workbook
+   4. https://github.com/raqueeb/mlbook-titanic/tree/master/prediction
+   5. https://github.com/wehrley/wehrley.github.io/blob/master/SOUPTONUTS.md
 
 # Blog :
    1. https://www.kaggle.com/vincentlugat/titanic-data-analysis-rf-prediction-0-81818
